@@ -1,0 +1,38 @@
+item_id,SKU,item_name,item_cat,item_size,item_price
+it001,PIZZ-MARG-R,Margherita,Pizza,Regular,12
+it002,PIZZ-MARG-L,Margherita,Pizza,Large,14
+it003,PIZZ-DIAV-R,Diavola,Pizza,Regular,16
+it004,PIZZ-DIAV-L,Diavola,Pizza,Large,19
+it005,PIZZ-PARM-R,Parmigiana,Pizza,Regular,15
+it006,PIZZ-PARM-L,Parmigiana,Pizza,Large,18
+it007,PIZZ-QUAT-R,Quattro Formaggie,Pizza,Regular,16
+it008,PIZZ-QUAT-L,Quattro Formaggie,Pizza,Large,19
+it009,PIZZ-NAPO-R,Napolitana,Pizza,Regular,16
+it010,PIZZ-NAPO-L,Napolitana,Pizza,Large,18
+it011,PIZZ-PEPP-R,Pepperoni,Pizza,Regular,15
+it012,PIZZ-PEPP-L,Pepperoni,Pizza,Large,17
+it013,PIZZ-SEAF-R,Seafood,Pizza,Regular,17
+it014,PIZZ-SEAF-L,Seafood,Pizza,Large,20
+it015,PIZZ-HAWA-R,Hawaiian,Pizza,Regular,15
+it016,PIZZ-HAWA-L,Hawaiian,Pizza,Large,17
+it017,SIDE-GARL-R,Garlic bread,Side,Regular,6
+it018,SIDE-CHIC-R,Chichen wings,Side,Regular,7
+it019,SIDE-BREA-R,Breadsticks,Side,Regular,5
+it020,SIDE-CAES-R,Caesar Salad,Side,Regular,7
+it021,DESS-ICE-CHOC,Chocolate Ice cream,Dessert,Regular,6
+it022,DESS-ICE-VANI,Vanila ice cream,Dessert,Regular,6
+it023,DESS-ICE-STRA,Strawberry Ice cream,Dessert,Regular,6
+it024,DESS-ICE-PISS,Pistachio Ice cream,Dessert,Regular,6
+it025,DESS-CHOC-BROW,Chocolate brownie,Dessert,Regular,5
+it026,DESS-BANO-PIE,Banoffee pie,Dessert,Regular,7
+it027,DESS-FRUI-SALA,Fruit salad,Dessert,Regular,5
+it028,BEVA-CC-REG36,Coca cola,Beverage,33cl,3
+it029,BEVA-CC-REG1500,Coca cola,Beverage,1.5cl,6
+it030,BEVA-CC-REG33,Diet coke,Beverage,33cl,3
+it031,BEVA-CC-REG1500,Diet coke,Beverage,1.5cl,6
+it032,BEVA-CC-REG33,7 up,Beverage,33cl,3
+it033,BEVA-CC-REG1500,7 up,Beverage,1.5cl,6
+it034,BEVA-CC-REG33,Fanta,Beverage,33cl,3
+it035,BEVA-CC-REG1500,Fanta,Beverage,1.5cl,6
+it036,BEVA-CC-REG33,Sparkling Water,Beverage,33cl,3
+it037,BEVA-CC-REG1500,Sparkling Water,Beverage,1.5cl,6
